@@ -9,34 +9,6 @@
 
 > **IMPORTANT: Do not use forbidden built-in functions**
 
-#### FORBIDDEN BUILT-IN FUNCTIONS
-- .foreach()
-- .map()
-- .filter()
-- .find()
-- indexOf()
-- lastIndexOf()
-- .replace()
--	.search()
-- .slice()
-- .reduce()
-- some()
-- sort()
-- splice()
-
-#### ALLOWED BUILT-IN FUNCTIONS
-- .toUpperCase()
-- .toLowerCase()
-- .push()
-- .join()
-- .split()
-- .length
-- .forin()
-- charCodeAt()
-- charAt()
-- .toFixed()
-- Number()
-
 
 ## TESTING
 1. Your score will be decided by the percentage of test scenario successfully completed.
@@ -45,13 +17,13 @@
 
 ## SCORING
 
-  | Case | Command                 | Max Score |
-  | ---- | ----------------------- | --------- |
-  | 01   | `npm test -- 1.test.js` |   20      |
-  | 02   | `npm test -- 2.test.js` |   20      |
-  | 03   | `npm test -- 3.test.js` |   20      |
-  | 04   | `npm test -- 4.test.js` |   20      |
-  | 05   | `npm test -- 5.test.js` |   20      |
-  |**ALL**| `npm run test`      | **100**      |
+  | Case | Command                 | Max Score |  Case |
+  | ---- | ----------------------- | --------- |------ |
+  | 01   | `npm test -- 1.test.js` |   20      |   4   |
+  | 02   | `npm test -- 2.test.js` |   20      |   4   |
+  | 03   | `npm test -- 3.test.js` |   20      |   4   |
+  | 04   | `npm test -- 4.test.js` |   20      |   4   |
+  | 05   | `npm test -- 5.test.js` |   20      |   4   |
+  |**ALL**| `npm run test`         | **100**   |   20  |
 
   #### FINAL SCORE:  100
