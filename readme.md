@@ -3,12 +3,15 @@
 
 ## RULES
 
-> Complete this test by yourself without any assistance from tools, AI, or humans. Any form of cheating will result in failure of this phase.
+> Complete this test by yourself without any assistance from tools, AI, or humans.
 
 > Work on your code in the provided .js files. **Do not create more files**.
 
-> **IMPORTANT: Do not use forbidden built-in functions**
+> Do not modify the .test files.
 
+> You may work on the code only in the given time period. Upon completion, put down your hands and do not your keyboard.
+
+**Any form of cheating and failure to comply will result in elimination.**
 
 ## TESTING
 1. Your score will be decided by the percentage of test scenario successfully completed.
