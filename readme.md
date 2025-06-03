@@ -34,6 +34,8 @@
 - .forin()
 - charCodeAt()
 - charAt()
+- .toFixed()
+- Number()
 
 
 ## TESTING
