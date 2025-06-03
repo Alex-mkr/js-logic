@@ -1,0 +1,15 @@
+{
+  "name": "mkr-se",
+  "version": "1.0.0",
+  "description": "1. Complete this test by yourself without any assistance from tools, AI, or humans. Any form of cheating will result in failure of this phase.\r 1. Clone this repository and create new branch with format of: **full_name-position_name**\r 1. Work on your code in the provided .js files. **Do not create more files**.",
+  "main": "1.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles --forceExit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
